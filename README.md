@@ -10,7 +10,7 @@ Handy tool to copy codes from other projects. Remove keil project-related files 
 
 - Step 3: Double clicked copy_project.bat.
 
-  - It will remove directory "DebugConfig", "Listings" and "Objects"
+  - It will remove directories:  "DebugConfig", "Listings" and "Objects"
 
   - It will rename "xxx.uvoptx", "xxx.uvprojx" and "xxx.uvguix" with current project directory name.
 
